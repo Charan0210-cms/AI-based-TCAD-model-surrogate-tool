@@ -1,4 +1,4 @@
-# AI-based-TCAD-model-surrogate-tool
+# ML-based-TCAD-model-surrogate-tool
 Machine learning model for Nanosheet FETs that predicts device performance (ION, IOFF, Cgg) in milliseconds, enabling faster design and optimization replacing traditional TCAD tools.
 
 I worked on building a faster alternative to TCAD simulations for nanosheet FET devices using machine learning. Instead of running full physics-based simulations every time (which can take a long time), the idea was to train a model that can predict device behavior almost instantly.
